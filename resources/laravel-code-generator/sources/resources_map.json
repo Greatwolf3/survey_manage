@@ -1,0 +1,32 @@
+[
+    {
+        "model-name": "Question_types",
+        "resource-file": "question_types.json",
+        "table-name": "question_types"
+    },
+    {
+        "model-name": "Questions",
+        "resource-file": "questions.json",
+        "table-name": "questions"
+    },
+    {
+        "model-name": "Questions_types",
+        "resource-file": "questions_types.json",
+        "table-name": "questions_types"
+    },
+    {
+        "model-name": "Answers",
+        "resource-file": "answers.json",
+        "table-name": "answers"
+    },
+    {
+        "model-name": "Question_answers",
+        "resource-file": "question_answers.json",
+        "table-name": "question_answers"
+    },
+    {
+        "model-name": "Import_tables",
+        "resource-file": "import_tables.json",
+        "table-name": "import_tables"
+    }
+]
